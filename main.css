@@ -13,6 +13,10 @@
   direction: ltr;
 }
 */
+#top {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 ::-webkit-search-decoration {
   -webkit-appearance: none;
 }
